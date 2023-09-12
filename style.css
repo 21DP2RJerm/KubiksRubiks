@@ -1,0 +1,27 @@
+body{
+    background-color: #fffbf1;
+}
+#parent{
+    width: 1720px;
+    height: 880px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: fill;
+    
+}
+#poga{
+    position: absolute;
+    bottom: 1%;
+}
+#box{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: blue;
+    
+}
